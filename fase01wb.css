@@ -18,3 +18,9 @@ body {
 h1 {
     font-size: 100px;
 }
+
+.contador {
+    margin-right: 0;
+    margin-left: 543px;
+    padding-top: 17px;
+}
