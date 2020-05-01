@@ -24,3 +24,75 @@ h1 {
     margin-left: 543px;
     padding-top: 17px;
 }
+
+#pluft {
+    background-image: url("./imagens/pluftmini.png");
+    background-repeat: no-repeat;
+    height: 60px;
+    padding-left: 100px;
+    left: 180px;
+    top: 208px;
+    position: absolute;
+}
+
+#semente1 {
+    background-image: url("./imagens/semente2.png");
+    background-repeat: no-repeat;    
+    height:25px;
+    padding-left: 100px;
+    left: 215px;
+    top: 215px;
+    position: absolute;
+        
+}
+
+#estrela1 {
+    background-image: url("./imagens/estrelamini.png");
+    background-repeat: no-repeat;
+    height: 25px;
+    padding-left: 240px;
+    left: 250px;
+    position: absolute;
+    top: 215px;
+  
+}
+
+#estrela2 {
+    background-image: url("./imagens/estrelamini.png");
+    background-repeat: no-repeat;
+    height: 25px;
+    padding-left: 270px;
+    left: 285px;
+    position: absolute;
+    top: 215px;
+}
+
+#estrela3 {
+    background-image: url("./imagens/estrelamini.png");
+    background-repeat: no-repeat;
+    height: 25px;
+    padding-left: 310px;
+    left: 320px;
+    position: absolute;
+    top: 215px;
+}
+
+#inimigo1 {
+    background-image: url("./imagens//carangueijomini.png");
+    background-repeat: no-repeat;
+    height: 25px;
+    padding-left: 310px;
+    left: 350px;
+    position: absolute;
+    top: 250px;
+}
+
+#bandeira{
+    background-image: url("./imagens//bandeiramini.png");
+    background-repeat: no-repeat;
+    height: 50px;
+    position: absolute;
+    padding-left: 310px;
+    left: 385px;
+    top: 190px;
+}
